@@ -2,3 +2,15 @@
 длина которых меньше, либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры,
  либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться коллекциями, 
  лучше обойтись исключительно массивами.*/
+using System;
+
+public class KR
+{
+
+    public static void Main()
+    {
+       string[] words = Console.ReadLine().Split(new char[] {' ',','}, StringSplitOptions.RemoveEmptyEntries);
+
+       
+    }
+}
