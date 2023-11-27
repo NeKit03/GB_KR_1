@@ -1,0 +1,14 @@
+C:\codes\KR\example1\bin\Debug\net7.0\example1.exe
+C:\codes\KR\example1\bin\Debug\net7.0\example1.deps.json
+C:\codes\KR\example1\bin\Debug\net7.0\example1.runtimeconfig.json
+C:\codes\KR\example1\bin\Debug\net7.0\example1.dll
+C:\codes\KR\example1\bin\Debug\net7.0\example1.pdb
+C:\codes\KR\example1\obj\Debug\net7.0\example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\codes\KR\example1\obj\Debug\net7.0\example1.AssemblyInfoInputs.cache
+C:\codes\KR\example1\obj\Debug\net7.0\example1.AssemblyInfo.cs
+C:\codes\KR\example1\obj\Debug\net7.0\example1.csproj.CoreCompileInputs.cache
+C:\codes\KR\example1\obj\Debug\net7.0\example1.dll
+C:\codes\KR\example1\obj\Debug\net7.0\refint\example1.dll
+C:\codes\KR\example1\obj\Debug\net7.0\example1.pdb
+C:\codes\KR\example1\obj\Debug\net7.0\example1.genruntimeconfig.cache
+C:\codes\KR\example1\obj\Debug\net7.0\ref\example1.dll
